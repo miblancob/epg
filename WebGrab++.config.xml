@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<settings>
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+  <filename>guide.xml</filename>
+  <mode>
+  </mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>6</timespan>
+  <update>f</update>
+  <license wg-username="Musito" registered-email="miguelblancobazaga@gmail.com" password="56be6bdf">To force a license update; replace this text with the letter f</license>
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  <channel update="i" site="allente.se" site_id="418" xmltv_id="V sport ultra HD (T)">ViaSport UHD</channel>
+  <channel update="i" site="allente.no" site_id="0365" xmltv_id="V sport 1 HD NO (T)">ViaSport 1</channel>
+  <channel update="i" site="allente.no" site_id="608" xmltv_id="V sport 2 HD NO (T)">ViaSport 2</channel>
+  <channel update="i" site="allente.no" site_id="609" xmltv_id="V sport 3 HD NO (T)">ViaSport 3</channel>
+  <channel update="i" site="allente.se" site_id="657" xmltv_id="C More Fotboll HD (T)">CMore Fotboll</channel>
+  <channel update="i" site="allente.se" site_id="0325" xmltv_id="Sportkanalen HD (T)">Sport Kanalen</channel>
+  <channel update="i" site="allente.se" site_id="0363" xmltv_id="V sport vinter HD (T)">V Sport Vinter</channel>
+  <channel update="i" site="allente.se" site_id="0292" xmltv_id="V sport motor HD (T)">V Sport Motor</channel>
+  <channel update="i" site="allente.se" site_id="0269" xmltv_id="V sport football HD (T)">V Sport Football</channel>
+  <channel update="i" site="allente.se" site_id="527" xmltv_id="V sport premium HD (T)">V Sport Premium</channel>
+  <channel update="i" site="allente.se" site_id="715" xmltv_id="V sport extra HD (T)">V Sport Extra</channel>
+  <channel update="i" site="allente.se" site_id="0362" xmltv_id="V sport 1 HD (S) (T)">V Sport 1</channel>
+  <channel update="i" site="allente.se" site_id="0364" xmltv_id="V sport golf HD (T)">V Sport GOLF</channel>
+  <channel update="i" site="allente.se" site_id="1009" xmltv_id="MOTORVISION TV HD (T)">MotorVision</channel>
+  <channel update="i" site="allente.se" site_id="658" xmltv_id="C More Mix HD (T)">CMore Mix</channel>
+  <channel update="i" site="allente.se" site_id="659" xmltv_id="C More Live HD (T)">CMore Live</channel>
+  <channel update="i" site="allente.se" site_id="660" xmltv_id="C More Live 2 HD (T)">CMore Live 2</channel>
+  <channel update="i" site="allente.se" site_id="661" xmltv_id="C More Live 3 HD (T)">CMore Live 3</channel>
+  <channel update="i" site="allente.se" site_id="662" xmltv_id="C More Live 4 HD (T)">CMore Live 4</channel>
+  <channel update="i" site="allente.fi" site_id="0369" xmltv_id="V sport + Suomi HD (T)">V Sport + Suomi</channel>
+  <channel update="i" site="allente.dk" site_id="0374" xmltv_id="TV3 MAX HD (D) (T)">TV3 MAX</channel>
+  <channel update="i" site="allente.dk" site_id="0200" xmltv_id="TV3 Sport HD (D) (T)">TV3 Sport</channel>
+  <channel update="i" site="allente.dk" site_id="0248" xmltv_id="TV3+ HD (D)">TV3+</channel>
+  <channel update="i" site="allente.no" site_id="0199" xmltv_id="TV2 Sport 1 HD NO (T)">TV2 Sport 1</channel>
+  <channel update="i" site="allente.no" site_id="0406" xmltv_id="TV2 Sport 2 HD NO (T)">TV2 Sport 2</channel>
+  <channel update="i" site="tvhebdo.com" site_id="snet/RSNE" xmltv_id="Sports Net EST">SNE</channel>
+  <channel update="i" site="tvhebdo.com" site_id="snet/RSNO" xmltv_id="Sports Net Ontario">SNO</channel>
+  <channel update="i" site="tvhebdo.com" site_id="snet/RSNW" xmltv_id="Sports Net West">SNW</channel>
+  <channel update="i" site="tvhebdo.com" site_id="snet/RSNP" xmltv_id="Sports Net Pacifique">SNP</channel>
+  <channel update="i" site="tvhebdo.com" site_id="snet/SNONE" xmltv_id="Sports Net One">SN1</channel>
+  <channel update="i" site="tvtv.ca" site_id="CAN-0008972-X##49952" xmltv_id="Sportsnet 360 HD">SN360</channel>
+  <channel update="i" site="digiromania.ro" site_id="449" xmltv_id="Digi Sport 1">DigiSport 1</channel>
+  <channel update="i" site="digiromania.ro" site_id="450" xmltv_id="Digi Sport 2">DigiSport 2</channel>
+  <channel update="i" site="digiromania.ro" site_id="338" xmltv_id="Digi Sport 3">DigiSport 3</channel>
+</settings>

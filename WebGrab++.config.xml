@@ -67,4 +67,7 @@
   <channel update="i" site="programme-television.org" site_id="2677" xmltv_id="RMC SPORT LIVE14">RMC SPORT LIVE14</channel>
   <channel update="i" site="programme-television.org" site_id="2678" xmltv_id="RMC SPORT LIVE15">RMC SPORT LIVE15</channel>
   <channel update="i" site="programme-television.org" site_id="2679" xmltv_id="RMC SPORT LIVE16">RMC SPORT LIVE16</channel>
+  <channel update="i" site="astro.com.my.E" site_id="466" xmltv_id="beIN Sports 2">Bein Sports 2</channel>
+  <channel update="i" site="astro.com.my.E" site_id="236" xmltv_id="beIN Sports HD">Bein Sports</channel>
+  <channel update="i" site="astro.com.my.E" site_id="313" xmltv_id="beIN Sports 3">Bein Sports 3-1</channel>
 </settings>

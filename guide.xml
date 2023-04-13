@@ -225,17 +225,17 @@
     <url>http://www.programme-television.org</url>
   </channel>
   <channel id="beIN Sports 2">
-    <display-name lang="en">Bein Sports 2</display-name>
+    <display-name lang="en">Bein Sports 2 MY</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="beIN Sports HD">
-    <display-name lang="en">Bein Sports</display-name>
+    <display-name lang="en">Bein Sports 1 MY</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="beIN Sports 3">
-    <display-name lang="en">Bein Sports 3-1</display-name>
+    <display-name lang="en">Bein Sports 3 MY</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>

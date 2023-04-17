@@ -51,7 +51,7 @@
   <channel update="i" site="digiromania.ro" site_id="338" xmltv_id="Digi Sport 3">DigiSport 3</channel>
   <channel update="i" site="cinemagia.ro" site_id="digi-sport-4" xmltv_id="Digi Sport 4">DigiSport 4</channel>
   <channel update="i" site="horizon.tv" site_id="GB/eng_lgi-gb-prodobo-master:1816" xmltv_id="Liverpool FC TV">Liverpool TV</channel>
-  <channel update="i" site="movietele.it" site_id="inter-tv" xmltv_id="Inter TV">Inter TV</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="DTH_9893" xmltv_id="Inter TV  232">Inter TV</channel>
   <channel update="i" site="guidatv.sky.it" site_id="DTH_9513" xmltv_id="Milan TV  230">Milan TV</channel>
   <channel update="i" site="programme-television.org" site_id="2667" xmltv_id="RMC Sport 3">RMC SPORT LIVE3</channel>
   <channel update="i" site="programme-television.org" site_id="1382" xmltv_id="RMC Sport 4">RMC SPORT LIVE4</channel>
@@ -70,4 +70,7 @@
   <channel update="i" site="astro.com.my.E" site_id="466" xmltv_id="beIN Sports 2">Bein Sports 2 MY</channel>
   <channel update="i" site="astro.com.my.E" site_id="236" xmltv_id="beIN Sports HD">Bein Sports 1 MY</channel>
   <channel update="i" site="astro.com.my.E" site_id="313" xmltv_id="beIN Sports 3">Bein Sports 3 MY</channel>
+  <channel update="i" site="telkku.com" site_id="mtv-max" xmltv_id="C More Max">CMore Max</channel>
+  <channel update="i" site="telkku.com" site_id="mtv-sport-1" xmltv_id="C More Sport 1">CMore Sport 1</channel>
+  <channel update="i" site="telkku.com" site_id="mtv-sport-2" xmltv_id="C More Sport 2">CMore Sport 2</channel>
 </settings>

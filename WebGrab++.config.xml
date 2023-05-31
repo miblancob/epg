@@ -21,6 +21,7 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
+  <channel update="i" site="astro.com.my.E" site_id="194" xmltv_id="WWE Network HD">WWE</channel>
   <channel update="i" site="orange.es" site_id="11058##IMAGES/O/x_74cf83606b27dc9a6cb7c4bc0" xmltv_id="AllFlamenco">All Flamenco</channel>
   <channel update="i" site="orange.es" site_id="11104##attachments_new/SURF_CHANNEL_BLANCO_176X122" xmltv_id="Surf Channel">Surf Channel</channel>
   <channel update="i" site="elpais.com.E" site_id="541" xmltv_id="Super 3">Super 3-33</channel>

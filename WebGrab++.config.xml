@@ -21,6 +21,41 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
+  <channel update="i" site="dishtv.in" site_id="10000000007510000" xmltv_id="Sony Sports Ten 1 HD [610]">Sony Sport 1</channel>
+  <channel update="i" site="dishtv.in" site_id="10000000053070000" xmltv_id="Sony Sports Ten 2 HD [612]">Sony Sport 2</channel>
+  <channel update="i" site="dishtv.in" site_id="10000000053080000" xmltv_id="Sony Sports Ten 3 HD [614]">Sony Sport 3</channel>
+  <channel update="i" site="dishtv.in" site_id="10000000009400000" xmltv_id="Sony Sports Ten 5 HD [622]">Sony Sport 5</channel>
+  <channel update="i" site="stod2.is" site_id="esport" xmltv_id="esport">Stod2 eSport</channel>
+  <channel update="i" site="stod2.is" site_id="sport" xmltv_id="sport">Stod2 Sport</channel>
+  <channel update="i" site="stod2.is" site_id="sport2" xmltv_id="sport2">Stod2 Sport 2</channel>
+  <channel update="i" site="stod2.is" site_id="sport3" xmltv_id="sport3">Stod2 Sport 3</channel>
+  <channel update="i" site="stod2.is" site_id="sport4" xmltv_id="sport4">Stod2 Sport 4</channel>
+  <channel update="i" site="siminn.is" site_id="46888998##5b166d1e29d11e18b5b907b4/5de67f375755ac7fe8665996_Siminn-Sport" xmltv_id="Síminn Sport">Siminn Sport</channel>
+  <channel update="i" site="siminn.is" site_id="46888999##5b166d1e29d11e18b5b907b4/5de67f24fbc3d7286abbeb4a_Siminn-Sport-2" xmltv_id="Síminn Sport2">Siminn Sport2</channel>
+  <channel update="i" site="siminn.is" site_id="46890006##5b166d1e29d11e18b5b907b4/5de67f145755ac42ed665903_Siminn-Sport-3" xmltv_id="Síminn Sport 3">Siminn Sport 3</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000013_019327" xmltv_id="Ziggo TV">Ziggo TV</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000014_019661" xmltv_id="Ziggo Sport">Ziggo Sport</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000094_019321" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000095_019371" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000096_019382" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000097_019370" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000098_019255" xmltv_id="Ziggo Sport Docu">Ziggo Sport Docu</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000099_019256" xmltv_id="Ziggo Sport Tennis">Ziggo Sport Tennis</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000107_019441" xmltv_id="ESPN">ESPN</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000108_019561" xmltv_id="ESPN 2">ESPN 2</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000109_019464" xmltv_id="ESPN 3">ESPN 3</channel>
+  <channel update="i" site="ziggogo.tv" site_id="NL_000110_019562" xmltv_id="ESPN 4">ESPN 4</channel>
+  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-hd" xmltv_id="POLSAT Sport HD">Polsat Sport</channel>
+  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-extra-hd" xmltv_id="POLSAT Sport Extra HD">Polsat Sport Extra</channel>
+  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-news-hd" xmltv_id="POLSAT Sport News HD">Polsat Sport News</channel>
+  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-fight-hd" xmltv_id="Polsat Sport Fight HD">Polsat Sport Fight</channel>
+  <channel update="i" site="polsatbox.pl" site_id="fightbox-hd" xmltv_id="FightBox HD">FightBox</channel>
+  <channel update="i" site="polsatbox.pl" site_id="travelxp-4k" xmltv_id="Travelxp 4K">Travelxp 4K</channel>
+  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-1-4k" xmltv_id="Eleven Sports 1 4K">Eleven Sports 1 4K</channel>
+  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-1-hd" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1</channel>
+  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-2-hd" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2</channel>
+  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-3-hd" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3</channel>
+  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-4-hd" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4</channel>
   <channel update="i" site="astro.com.my.E" site_id="194" xmltv_id="WWE Network HD">WWE</channel>
   <channel update="i" site="orange.es" site_id="11058##IMAGES/O/x_74cf83606b27dc9a6cb7c4bc0" xmltv_id="AllFlamenco">All Flamenco</channel>
   <channel update="i" site="orange.es" site_id="11104##attachments_new/SURF_CHANNEL_BLANCO_176X122" xmltv_id="Surf Channel">Surf Channel</channel>
@@ -56,20 +91,6 @@
   <channel update="i" site="horizon.tv" site_id="GB/eng_lgi-gb-prodobo-master:1816" xmltv_id="Liverpool FC TV">Liverpool TV</channel>
   <channel update="i" site="guidatv.sky.it" site_id="DTH_9893" xmltv_id="Inter TV  232">Inter TV</channel>
   <channel update="i" site="guidatv.sky.it" site_id="DTH_9513" xmltv_id="Milan TV  230">Milan TV</channel>
-  <channel update="i" site="programme-television.org" site_id="2667" xmltv_id="RMC Sport 3">RMC SPORT LIVE3</channel>
-  <channel update="i" site="programme-television.org" site_id="1382" xmltv_id="RMC Sport 4">RMC SPORT LIVE4</channel>
-  <channel update="i" site="programme-television.org" site_id="2668" xmltv_id="RMC Sport Live 5">RMC SPORT LIVE5</channel>
-  <channel update="i" site="programme-television.org" site_id="2669" xmltv_id="RMC SPORT LIVE6">RMC SPORT LIVE6</channel>
-  <channel update="i" site="programme-television.org" site_id="2670" xmltv_id="RMC SPORT LIVE7">RMC SPORT LIVE7</channel>
-  <channel update="i" site="programme-television.org" site_id="2671" xmltv_id="RMC SPORT LIVE8">RMC SPORT LIVE8</channel>
-  <channel update="i" site="programme-television.org" site_id="2672" xmltv_id="RMC SPORT LIVE9">RMC SPORT LIVE9</channel>
-  <channel update="i" site="programme-television.org" site_id="2673" xmltv_id="RMC SPORT LIVE10">RMC SPORT LIVE10</channel>
-  <channel update="i" site="programme-television.org" site_id="2674" xmltv_id="RMC SPORT LIVE11">RMC SPORT LIVE11</channel>
-  <channel update="i" site="programme-television.org" site_id="2675" xmltv_id="RMC SPORT LIVE12">RMC SPORT LIVE12</channel>
-  <channel update="i" site="programme-television.org" site_id="2676" xmltv_id="RMC SPORT LIVE13">RMC SPORT LIVE13</channel>
-  <channel update="i" site="programme-television.org" site_id="2677" xmltv_id="RMC SPORT LIVE14">RMC SPORT LIVE14</channel>
-  <channel update="i" site="programme-television.org" site_id="2678" xmltv_id="RMC SPORT LIVE15">RMC SPORT LIVE15</channel>
-  <channel update="i" site="programme-television.org" site_id="2679" xmltv_id="RMC SPORT LIVE16">RMC SPORT LIVE16</channel>
   <channel update="i" site="astro.com.my.E" site_id="466" xmltv_id="beIN Sports 2">Bein Sports 2 MY</channel>
   <channel update="i" site="astro.com.my.E" site_id="236" xmltv_id="beIN Sports HD">Bein Sports 1 MY</channel>
   <channel update="i" site="astro.com.my.E" site_id="313" xmltv_id="beIN Sports 3">Bein Sports 3 MY</channel>

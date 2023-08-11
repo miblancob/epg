@@ -21,10 +21,6 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-  <channel update="i" site="dishtv.in" site_id="10000000007510000" xmltv_id="Sony Sports Ten 1 HD [610]">Sony Sport 1</channel>
-  <channel update="i" site="dishtv.in" site_id="10000000053070000" xmltv_id="Sony Sports Ten 2 HD [612]">Sony Sport 2</channel>
-  <channel update="i" site="dishtv.in" site_id="10000000053080000" xmltv_id="Sony Sports Ten 3 HD [614]">Sony Sport 3</channel>
-  <channel update="i" site="dishtv.in" site_id="10000000009400000" xmltv_id="Sony Sports Ten 5 HD [622]">Sony Sport 5</channel>
   <channel update="i" site="stod2.is" site_id="esport" xmltv_id="esport">Stod2 eSport</channel>
   <channel update="i" site="stod2.is" site_id="sport" xmltv_id="sport">Stod2 Sport</channel>
   <channel update="i" site="stod2.is" site_id="sport2" xmltv_id="sport2">Stod2 Sport 2</channel>

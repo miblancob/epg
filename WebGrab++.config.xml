@@ -11,7 +11,7 @@
   <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>6</timespan>
+  <timespan>10</timespan>
   <update>f</update>
   <license wg-username="Musito" registered-email="miguelblancobazaga@gmail.com" password="56be6bdf">To force a license update; replace this text with the letter f</license>
   <!--
@@ -21,7 +21,11 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-  <channel update="i" site="stod2.is" site_id="esport" xmltv_id="esport">Stod2 eSport</channel>
+  
+  <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA1" xmltv_id="LaLigaTVBAR1">LaLigaTV Bar 2</channel>
+  <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA2" xmltv_id="LaLigaTVBAR2">LaLigaTV Bar 3</channel>
+  <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA4" xmltv_id="LaLigaTVBAR4">LaLigaTV Bar 4</channel>
+  <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBAR" xmltv_id="LaLigaTVBAR">LaLigaTV Bar</channel>
   <channel update="i" site="stod2.is" site_id="sport" xmltv_id="sport">Stod2 Sport</channel>
   <channel update="i" site="stod2.is" site_id="sport2" xmltv_id="sport2">Stod2 Sport 2</channel>
   <channel update="i" site="stod2.is" site_id="sport3" xmltv_id="sport3">Stod2 Sport 3</channel>
@@ -41,21 +45,8 @@
   <channel update="i" site="ziggogo.tv" site_id="NL_000108_019561" xmltv_id="ESPN 2">ESPN 2</channel>
   <channel update="i" site="ziggogo.tv" site_id="NL_000109_019464" xmltv_id="ESPN 3">ESPN 3</channel>
   <channel update="i" site="ziggogo.tv" site_id="NL_000110_019562" xmltv_id="ESPN 4">ESPN 4</channel>
-  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-hd" xmltv_id="POLSAT Sport HD">Polsat Sport</channel>
-  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-extra-hd" xmltv_id="POLSAT Sport Extra HD">Polsat Sport Extra</channel>
-  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-news-hd" xmltv_id="POLSAT Sport News HD">Polsat Sport News</channel>
-  <channel update="i" site="polsatbox.pl" site_id="polsat-sport-fight-hd" xmltv_id="Polsat Sport Fight HD">Polsat Sport Fight</channel>
-  <channel update="i" site="polsatbox.pl" site_id="fightbox-hd" xmltv_id="FightBox HD">FightBox</channel>
-  <channel update="i" site="polsatbox.pl" site_id="travelxp-4k" xmltv_id="Travelxp 4K">Travelxp 4K</channel>
-  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-1-4k" xmltv_id="Eleven Sports 1 4K">Eleven Sports 1 4K</channel>
-  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-1-hd" xmltv_id="Eleven Sports 1 HD">Eleven Sports 1</channel>
-  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-2-hd" xmltv_id="Eleven Sports 2 HD">Eleven Sports 2</channel>
-  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-3-hd" xmltv_id="Eleven Sports 3 HD">Eleven Sports 3</channel>
-  <channel update="i" site="polsatbox.pl" site_id="eleven-sports-4-hd" xmltv_id="Eleven Sports 4 HD">Eleven Sports 4</channel>
   <channel update="i" site="astro.com.my.E" site_id="194" xmltv_id="WWE Network HD">WWE</channel>
   <channel update="i" site="orange.es" site_id="11058##IMAGES/O/x_74cf83606b27dc9a6cb7c4bc0" xmltv_id="AllFlamenco">All Flamenco</channel>
-  <channel update="i" site="orange.es" site_id="11104##attachments_new/SURF_CHANNEL_BLANCO_176X122" xmltv_id="Surf Channel">Surf Channel</channel>
-  <channel update="i" site="elpais.com.E" site_id="541" xmltv_id="Super 3">Super 3-33</channel>
   <channel update="i" site="elmundo.es" site_id="745" xmltv_id="LaLiga TV">LaLiga TV</channel>
   <channel update="i" site="horizon_tv" site_id="NL/nld_NL_000191_019261" xmltv_id="Love Nature">Love Nature</channel>
   <channel update="i" site="epg.telemach.ba" site_id="179##/2020/05/28/12/55/38/privatetv_logo_16_9_light_288x162_e6993320_09e5_4979_bb19_ca6b5f1d24dc.png" xmltv_id="Private TV">Private TV</channel>
@@ -78,20 +69,14 @@
   <channel update="i" site="allente.se" site_id="660" xmltv_id="C More Live 2 HD (T)">CMore Live 2</channel>
   <channel update="i" site="allente.se" site_id="661" xmltv_id="C More Live 3 HD (T)">CMore Live 3</channel>
   <channel update="i" site="allente.se" site_id="662" xmltv_id="C More Live 4 HD (T)">CMore Live 4</channel>
-  <channel update="i" site="allente.fi" site_id="0369" xmltv_id="V sport + Suomi HD (T)">V Sport + Suomi</channel>
   <channel update="i" site="allente.dk" site_id="0374" xmltv_id="TV3 MAX HD (D) (T)">TV3 MAX</channel>
   <channel update="i" site="allente.dk" site_id="0200" xmltv_id="TV3 Sport HD (D) (T)">TV3 Sport</channel>
   <channel update="i" site="allente.dk" site_id="0248" xmltv_id="TV3+ HD (D)">TV3+</channel>
   <channel update="i" site="allente.no" site_id="0199" xmltv_id="TV2 Sport 1 HD NO (T)">TV2 Sport 1</channel>
   <channel update="i" site="allente.no" site_id="0406" xmltv_id="TV2 Sport 2 HD NO (T)">TV2 Sport 2</channel>
   <channel update="i" site="horizon.tv" site_id="GB/eng_lgi-gb-prodobo-master:1816" xmltv_id="Liverpool FC TV">Liverpool TV</channel>
-  <channel update="i" site="guidatv.sky.it" site_id="DTH_9893" xmltv_id="Inter TV  232">Inter TV</channel>
-  <channel update="i" site="guidatv.sky.it" site_id="DTH_9513" xmltv_id="Milan TV  230">Milan TV</channel>
   <channel update="i" site="astro.com.my.E" site_id="466" xmltv_id="beIN Sports 2">Bein Sports 2 MY</channel>
   <channel update="i" site="astro.com.my.E" site_id="236" xmltv_id="beIN Sports HD">Bein Sports 1 MY</channel>
   <channel update="i" site="astro.com.my.E" site_id="313" xmltv_id="beIN Sports 3">Bein Sports 3 MY</channel>
-  <channel update="i" site="telkku.com" site_id="mtv-max" xmltv_id="C More Max">CMore Max</channel>
-  <channel update="i" site="telkku.com" site_id="mtv-sport-1" xmltv_id="C More Sport 1">CMore Sport 1</channel>
-  <channel update="i" site="telkku.com" site_id="mtv-sport-2" xmltv_id="C More Sport 2">CMore Sport 2</channel>
 
 </settings>

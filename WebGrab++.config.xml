@@ -21,7 +21,7 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-  
+
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA1" xmltv_id="LaLigaTVBAR1">LaLigaTV Bar 2</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA2" xmltv_id="LaLigaTVBAR2">LaLigaTV Bar 3</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA4" xmltv_id="LaLigaTVBAR4">LaLigaTV Bar 4</channel>

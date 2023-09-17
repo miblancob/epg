@@ -45,15 +45,9 @@
   <channel update="i" site="ziggogo.tv" site_id="NL_000108_019561" xmltv_id="ESPN 2">ESPN 2</channel>
   <channel update="i" site="ziggogo.tv" site_id="NL_000109_019464" xmltv_id="ESPN 3">ESPN 3</channel>
   <channel update="i" site="ziggogo.tv" site_id="NL_000110_019562" xmltv_id="ESPN 4">ESPN 4</channel>
-  <channel update="i" site="astro.com.my.E" site_id="194" xmltv_id="WWE Network HD">WWE</channel>
-  <channel update="i" site="orange.es" site_id="11058##IMAGES/O/x_74cf83606b27dc9a6cb7c4bc0" xmltv_id="AllFlamenco">All Flamenco</channel>
   <channel update="i" site="elmundo.es" site_id="745" xmltv_id="LaLiga TV">LaLiga TV</channel>
   <channel update="i" site="horizon_tv" site_id="NL/nld_NL_000191_019261" xmltv_id="Love Nature">Love Nature</channel>
   <channel update="i" site="epg.telemach.ba" site_id="179##/2020/05/28/12/55/38/privatetv_logo_16_9_light_288x162_e6993320_09e5_4979_bb19_ca6b5f1d24dc.png" xmltv_id="Private TV">Private TV</channel>
-  <channel update="i" site="allente.se" site_id="418" xmltv_id="V sport ultra HD (T)">ViaSport UHD</channel>
-  <channel update="i" site="allente.no" site_id="0365" xmltv_id="V sport 1 HD NO (T)">ViaSport 1</channel>
-  <channel update="i" site="allente.no" site_id="608" xmltv_id="V sport 2 HD NO (T)">ViaSport 2</channel>
-  <channel update="i" site="allente.no" site_id="609" xmltv_id="V sport 3 HD NO (T)">ViaSport 3</channel>
   <channel update="i" site="allente.se" site_id="657" xmltv_id="C More Fotboll HD (T)">CMore Fotboll</channel>
   <channel update="i" site="allente.se" site_id="0325" xmltv_id="Sportkanalen HD (T)">Sport Kanalen</channel>
   <channel update="i" site="allente.se" site_id="0363" xmltv_id="V sport vinter HD (T)">V Sport Vinter</channel>
@@ -61,22 +55,11 @@
   <channel update="i" site="allente.se" site_id="0269" xmltv_id="V sport football HD (T)">V Sport Football</channel>
   <channel update="i" site="allente.se" site_id="527" xmltv_id="V sport premium HD (T)">V Sport Premium</channel>
   <channel update="i" site="allente.se" site_id="715" xmltv_id="V sport extra HD (T)">V Sport Extra</channel>
-  <channel update="i" site="allente.se" site_id="0362" xmltv_id="V sport 1 HD (S) (T)">V Sport 1</channel>
-  <channel update="i" site="allente.se" site_id="0364" xmltv_id="V sport golf HD (T)">V Sport GOLF</channel>
-  <channel update="i" site="allente.se" site_id="1009" xmltv_id="MOTORVISION TV HD (T)">MotorVision</channel>
   <channel update="i" site="allente.se" site_id="658" xmltv_id="C More Mix HD (T)">CMore Mix</channel>
   <channel update="i" site="allente.se" site_id="659" xmltv_id="C More Live HD (T)">CMore Live</channel>
   <channel update="i" site="allente.se" site_id="660" xmltv_id="C More Live 2 HD (T)">CMore Live 2</channel>
   <channel update="i" site="allente.se" site_id="661" xmltv_id="C More Live 3 HD (T)">CMore Live 3</channel>
   <channel update="i" site="allente.se" site_id="662" xmltv_id="C More Live 4 HD (T)">CMore Live 4</channel>
-  <channel update="i" site="allente.dk" site_id="0374" xmltv_id="TV3 MAX HD (D) (T)">TV3 MAX</channel>
-  <channel update="i" site="allente.dk" site_id="0200" xmltv_id="TV3 Sport HD (D) (T)">TV3 Sport</channel>
-  <channel update="i" site="allente.dk" site_id="0248" xmltv_id="TV3+ HD (D)">TV3+</channel>
-  <channel update="i" site="allente.no" site_id="0199" xmltv_id="TV2 Sport 1 HD NO (T)">TV2 Sport 1</channel>
-  <channel update="i" site="allente.no" site_id="0406" xmltv_id="TV2 Sport 2 HD NO (T)">TV2 Sport 2</channel>
   <channel update="i" site="horizon.tv" site_id="GB/eng_lgi-gb-prodobo-master:1816" xmltv_id="Liverpool FC TV">Liverpool TV</channel>
-  <channel update="i" site="astro.com.my.E" site_id="466" xmltv_id="beIN Sports 2">Bein Sports 2 MY</channel>
-  <channel update="i" site="astro.com.my.E" site_id="236" xmltv_id="beIN Sports HD">Bein Sports 1 MY</channel>
-  <channel update="i" site="astro.com.my.E" site_id="313" xmltv_id="beIN Sports 3">Bein Sports 3 MY</channel>
 
 </settings>

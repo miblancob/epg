@@ -22,12 +22,12 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
+  <channel update="i" site="tv24.uk" site_id="NW1##1000197##133886" xmltv_id="DAZN 1 HD UK">DAZN 1 UK</channel>
   <channel update="i" site="allente.se" site_id="675" xmltv_id="TV4 Tennis (T)">TV4 Tennis</channel>
   <channel update="i" site="allente.se" site_id="656" xmltv_id="C More Hockey HD (T)">TV4 Hockey</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA1" xmltv_id="LaLigaTVBAR1">LaLigaTV Bar 2</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA2" xmltv_id="LaLigaTVBAR2">LaLigaTV Bar 3</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA4" xmltv_id="LaLigaTVBAR4">LaLigaTV Bar 4</channel>
-  <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBAR" xmltv_id="LaLigaTVBAR">LaLigaTV Bar</channel>
   <channel update="i" site="stod2.is" site_id="sport" xmltv_id="sport">Stod2 Sport</channel>
   <channel update="i" site="stod2.is" site_id="sport2" xmltv_id="sport2">Stod2 Sport 2</channel>
   <channel update="i" site="stod2.is" site_id="sport3" xmltv_id="sport3">Stod2 Sport 3</channel>

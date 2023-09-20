@@ -21,12 +21,17 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
+  <channel update="i" site="guidatv.sky.it" site_id="DTH_9513" xmltv_id="Milan TV  230">Milan TV</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="DTH_9893" xmltv_id="Inter TV  232">Inter TV</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="DTH_11402" xmltv_id="ZONA DAZN  214">Zona DAZN</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="Fibra_9057" xmltv_id="Eurosport HD  210">Eurosport 1 IT</channel>
+  <channel update="i" site="guidatv.sky.it" site_id="Fibra_9060" xmltv_id="Eurosport 2 HD  211">Eurosport 2 IT</channel>
   <channel update="i" site="go3.lt_en" site_id="4296024" xmltv_id="TV3 Sport [EN]">Go3 Sport ET</channel>
   <channel update="i" site="go3.lt_en" site_id="4231570" xmltv_id="TV3 Sport 2 [EN]">Go3 Sport 2 ET</channel>
   <channel update="i" site="go3.lt_en" site_id="4150367" xmltv_id="TV3 Sport 3 [EN]">Go3 Sport 3</channel>
   <channel update="i" site="go3.lt_en" site_id="2275257" xmltv_id="TV3 Sport Open [EN]">Go3 Sport Open</channel>
   <channel update="i" site="go3.lt_en" site_id="4229022" xmltv_id="Prime Fight [EN]">Prime Fight</channel>
-  <channel update="i" site="go3.lt_en" site_id="4096842" xmltv_id="Setanta LT [EN]">Setanta LV</channel>
+  <channel update="i" site="go3.lt_en" site_id="4096842" xmltv_id="Setanta LT [EN]">Setanta LT</channel>
   <channel update="i" site="go3.lt_en" site_id="4228245" xmltv_id="Eurosport 1 [EN]">Eurosport 1 LT</channel>
   <channel update="i" site="go3.lt_en" site_id="4152147" xmltv_id="Eurosport 2 [EN]">Eurosport 2 LT</channel>
   <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_v-sport-plus-suomi" xmltv_id="V sport+ Suomi">ViaSport + FI</channel>

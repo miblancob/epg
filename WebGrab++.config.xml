@@ -21,7 +21,35 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-
+  <channel update="i" site="go3.lt_en" site_id="4296024" xmltv_id="TV3 Sport [EN]">Go3 Sport ET</channel>
+  <channel update="i" site="go3.lt_en" site_id="4231570" xmltv_id="TV3 Sport 2 [EN]">Go3 Sport 2 ET</channel>
+  <channel update="i" site="go3.lt_en" site_id="4150367" xmltv_id="TV3 Sport 3 [EN]">Go3 Sport 3</channel>
+  <channel update="i" site="go3.lt_en" site_id="2275257" xmltv_id="TV3 Sport Open [EN]">Go3 Sport Open</channel>
+  <channel update="i" site="go3.lt_en" site_id="4229022" xmltv_id="Prime Fight [EN]">Prime Fight</channel>
+  <channel update="i" site="go3.lt_en" site_id="4096842" xmltv_id="Setanta LT [EN]">Setanta LV</channel>
+  <channel update="i" site="go3.lt_en" site_id="4228245" xmltv_id="Eurosport 1 [EN]">Eurosport 1 LT</channel>
+  <channel update="i" site="go3.lt_en" site_id="4152147" xmltv_id="Eurosport 2 [EN]">Eurosport 2 LT</channel>
+  <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_v-sport-plus-suomi" xmltv_id="V sport+ Suomi">ViaSport + FI</channel>
+  <channel update="i" site="telia.fi" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13_v-sport-2-suomi" xmltv_id="V sport 2 Suomi">ViaSport 2 FI</channel>
+  <channel update="i" site="telia.fi" site_id="fe4f88a8-0bcd-4b31-bceb-704a1fb58c13_v-sport-1-suomi" xmltv_id="V sport 1 Suomi">ViaSport 1 FI</channel>
+  <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_v-sport-football-hd" xmltv_id="V sport football HD">ViaSport Football FI</channel>
+  <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_v-sport-premium-hd" xmltv_id="V sport premium HD">ViaSport Premium FI</channel>
+  <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_c-more-max-hd" xmltv_id="C More Max HD">CMore MAX</channel>
+  <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_c-more-sport-1-hd" xmltv_id="C More Sport 1 HD">CMore Sport 1</channel>
+  <channel update="i" site="telia.fi" site_id="910348a9-3a77-485f-98ee-91ad5bdca68d_c-more-sport-2-hd" xmltv_id="C More Sport 2 HD">CMore Sport 2</channel>
+  <channel update="i" site="tv24.uk" site_id="NW1##1000197##79027" xmltv_id="Viaplay Sports 1">ViaSport 1 UK</channel>
+  <channel update="i" site="tv24.uk" site_id="NW1##1000197##109162" xmltv_id="Viaplay Sports 2 HD">ViaSport 2 UK</channel>
+  <channel update="i" site="tv24.uk" site_id="NW1##1000197##105526" xmltv_id="Viaplay Xtra">ViaSport Xtra UK</channel>
+  <channel update="i" site="tv24.uk" site_id="NW1##1000197##133886" xmltv_id="DAZN 1 HD UK">DAZN 1 UK</channel>
+  <channel update="i" site="allente.no" site_id="0365" xmltv_id="V sport 1 HD NO (T)">ViaSport 1</channel>
+  <channel update="i" site="allente.no" site_id="608" xmltv_id="V sport 2 HD NO (T)">ViaSport 2</channel>
+  <channel update="i" site="allente.no" site_id="609" xmltv_id="V sport 3 HD NO (T)">ViaSport 3</channel>
+  <channel update="i" site="allente.no" site_id="1047" xmltv_id="V sport Premier League HD (T)">ViaSport Premier League</channel>
+  <channel update="i" site="allente.no" site_id="0199" xmltv_id="TV2 Sport 1 HD NO (T)">TV2 Sport 1 NO</channel>
+  <channel update="i" site="allente.no" site_id="0406" xmltv_id="TV2 Sport 2 HD NO (T)">TV2 Sport 2 NO</channel>
+  <channel update="i" site="astro.com.my.E" site_id="466" xmltv_id="beIN Sports 2">Bein Sports 2 MY</channel>
+  <channel update="i" site="astro.com.my.E" site_id="236" xmltv_id="beIN Sports HD">Bein Sports 1 MY</channel>
+  <channel update="i" site="astro.com.my.E" site_id="313" xmltv_id="beIN Sports 3">Bein Sports 3 MY</channel>
   <channel update="i" site="telenet.tv.be" site_id="primesporthd##MM0C8" xmltv_id="Play Sports HD1">Play Sports 1 BE</channel>
   <channel update="i" site="telenet.tv.be" site_id="sportinghd2##MM376" xmltv_id="Play Sports HD2">Play Sports 2 BE</channel>
   <channel update="i" site="telenet.tv.be" site_id="sporting3##MM377" xmltv_id="Play Sports HD3">Play Sports 3 BE</channel>
@@ -30,9 +58,6 @@
   <channel update="i" site="telenet.tv.be" site_id="jplnl01##MM3F7" xmltv_id="Eleven Pro League 1 NL">Eleven Pro League 1 NL</channel>
   <channel update="i" site="telenet.tv.be" site_id="jplfr01##MM3FA" xmltv_id="Eleven Pro League 1 FR">Eleven Pro League 1 FR</channel>
   <channel update="i" site="rakuten.tv" site_id="18#en_dazn-women-s-football" xmltv_id="DAZN Women's Football">DAZN Women's Football</channel>
-  <channel update="i" site="tv24.uk" site_id="NW1##1000197##133886" xmltv_id="DAZN 1 HD UK">DAZN 1 UK</channel>
-  <channel update="i" site="allente.se" site_id="675" xmltv_id="TV4 Tennis (T)">TV4 Tennis</channel>
-  <channel update="i" site="allente.se" site_id="656" xmltv_id="C More Hockey HD (T)">TV4 Hockey</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA1" xmltv_id="LaLigaTVBAR1">LaLigaTV Bar 2</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA2" xmltv_id="LaLigaTVBAR2">LaLigaTV Bar 3</channel>
   <channel update="i" site="comunicacion.movistarplus.es" site_id="LIGBA4" xmltv_id="LaLigaTVBAR4">LaLigaTV Bar 4</channel>
@@ -58,18 +83,30 @@
   <channel update="i" site="elmundo.es" site_id="745" xmltv_id="LaLiga TV">LaLiga TV</channel>
   <channel update="i" site="horizon_tv" site_id="NL/nld_NL_000191_019261" xmltv_id="Love Nature">Love Nature</channel>
   <channel update="i" site="epg.telemach.ba" site_id="179##/2020/05/28/12/55/38/privatetv_logo_16_9_light_288x162_e6993320_09e5_4979_bb19_ca6b5f1d24dc.png" xmltv_id="Private TV">Private TV</channel>
-  <channel update="i" site="allente.se" site_id="657" xmltv_id="C More Fotboll HD (T)">CMore Fotboll</channel>
-  <channel update="i" site="allente.se" site_id="0325" xmltv_id="Sportkanalen HD (T)">Sport Kanalen</channel>
-  <channel update="i" site="allente.se" site_id="0363" xmltv_id="V sport vinter HD (T)">V Sport Vinter</channel>
-  <channel update="i" site="allente.se" site_id="0292" xmltv_id="V sport motor HD (T)">V Sport Motor</channel>
-  <channel update="i" site="allente.se" site_id="0269" xmltv_id="V sport football HD (T)">V Sport Football</channel>
-  <channel update="i" site="allente.se" site_id="527" xmltv_id="V sport premium HD (T)">V Sport Premium</channel>
-  <channel update="i" site="allente.se" site_id="715" xmltv_id="V sport extra HD (T)">V Sport Extra</channel>
+  <channel update="i" site="allente.se" site_id="418" xmltv_id="V sport ultra HD (T)">ViaSport UHD</channel>
+  <channel update="i" site="allente.se" site_id="657" xmltv_id="C More Fotboll HD (T)">TV4 Fotboll</channel>
+  <channel update="i" site="allente.se" site_id="0363" xmltv_id="V sport vinter HD (T)">ViaSport Hockey</channel>
+  <channel update="i" site="allente.se" site_id="0292" xmltv_id="V sport motor HD (T)">ViaSport Motor</channel>
+  <channel update="i" site="allente.se" site_id="0269" xmltv_id="V sport football HD (T)">ViaSport Football</channel>
+  <channel update="i" site="allente.se" site_id="527" xmltv_id="V sport premium HD (T)">ViaSport Premium</channel>
+  <channel update="i" site="allente.se" site_id="715" xmltv_id="V sport extra HD (T)">ViaSport Extra</channel>
   <channel update="i" site="allente.se" site_id="658" xmltv_id="C More Mix HD (T)">TV4 Motor</channel>
   <channel update="i" site="allente.se" site_id="659" xmltv_id="C More Live HD (T)">TV4 Live 1</channel>
   <channel update="i" site="allente.se" site_id="660" xmltv_id="C More Live 2 HD (T)">TV4 Live 2</channel>
   <channel update="i" site="allente.se" site_id="661" xmltv_id="C More Live 3 HD (T)">TV4 Live 3</channel>
   <channel update="i" site="allente.se" site_id="662" xmltv_id="C More Live 4 HD (T)">TV4 Live 4</channel>
+  <channel update="i" site="allente.se" site_id="675" xmltv_id="TV4 Tennis (T)">TV4 Tennis</channel>
+  <channel update="i" site="allente.se" site_id="656" xmltv_id="C More Hockey HD (T)">TV4 Hockey</channel>
+  <channel update="i" site="allente.se" site_id="0364" xmltv_id="V sport golf HD (T)">ViaSport Golf</channel>
+  <channel update="i" site="allente.se" site_id="0290" xmltv_id="TV3 HD (S) (T)">TV3 SW</channel>
+  <channel update="i" site="allente.se" site_id="0325" xmltv_id="Sportkanalen HD (T)">TV4 Sportkanalen</channel>
+  <channel update="i" site="allente.se" site_id="1023" xmltv_id="Eurosport 1 HD (S) (T)">Eurosport 1 SW</channel>
+  <channel update="i" site="allente.se" site_id="1024" xmltv_id="Eurosport 2 HD (S) (T)">Eurosport 2 SW</channel>
+  <channel update="i" site="allente.se" site_id="1009" xmltv_id="MOTORVISION TV HD (T)">MotorVision</channel>
+  <channel update="i" site="allente.dk" site_id="0200" xmltv_id="TV3 Sport HD (D) (T)">TV3 Sport DK</channel>
+  <channel update="i" site="allente.dk" site_id="0248" xmltv_id="TV3+ HD (D)">TV3+ DK</channel>
+  <channel update="i" site="allente.dk" site_id="0374" xmltv_id="TV3 MAX HD (D) (T)">TV3 MAX DK</channel>
+  <channel update="i" site="allente.dk" site_id="707" xmltv_id="See (D) (T)">See DK</channel>
   <channel update="i" site="horizon.tv" site_id="GB/eng_lgi-gb-prodobo-master:1816" xmltv_id="Liverpool FC TV">Liverpool TV</channel>
 
 </settings>
